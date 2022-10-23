@@ -35,7 +35,7 @@ global.footer = '|SURANTA|' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = '-'
 global.ig = '-'
-global.mygc = '-'
+global.mygc = 'https://chat.whatsapp.com/JdE67kv45hGIx3G8SL5EZI'
 global.myweb = '-'
 global.email = '-'
 global.region = 'indonesia'
